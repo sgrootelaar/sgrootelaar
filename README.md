@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sgrootelaar
+- 👀 I’m interested in using Python for data science and finance!
+- 🌱 I’m currently developing and growing my Python coding skills!
+- ⚡ Fun fact: I love to mountainbike!
